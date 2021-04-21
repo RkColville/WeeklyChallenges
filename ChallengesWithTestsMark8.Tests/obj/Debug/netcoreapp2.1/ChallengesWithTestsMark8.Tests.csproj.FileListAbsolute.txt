@@ -101,3 +101,6 @@ C:\Users\Robert Colville\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8
 C:\Users\Robert Colville\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.dll
 C:\Users\Robert Colville\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\Robert Colville\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
+C:\Users\Robert Colville\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.deps.json
+C:\Users\Robert Colville\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.json
+C:\Users\Robert Colville\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
